@@ -25,7 +25,7 @@ const Education = ({ educationList }: EducationProps) => {
               </div>
               <div className="flex justify-between md:flex-row sm:flex-col">
                 <span>{education.institute}</span>
-                <span>{education.institute}</span>
+                <span>{education.location}</span>
               </div>
               <span>GPA: {education.gpa}</span>
               <ul className="list-inside list-disc">
