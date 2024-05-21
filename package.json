@@ -1,0 +1,68 @@
+{
+  "name": "online-resume",
+  "description": "Create and deploy an online resume like portfolio in minutes.",
+  "private": false,
+  "version": "1.0.0",
+  "author": "aditeyaS",
+  "homepage": "https://aditeyas.github.io/online-resume",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aditeyaS/online-resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aditeyaS/online-resume/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint --fix . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "autoprefixer": "^10.4.19",
+    "daisyui": "^4.11.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  },
+  "keywords": [
+    "personal-site",
+    "template",
+    "portfolio",
+    "resume",
+    "cv",
+    "personal-website",
+    "portfolio-website",
+    "portfolio-site",
+    "portfolio-template",
+    "portfolio-page",
+    "developer-portfolio",
+    "portfolio-project",
+    "github-portfolio",
+    "tailwind-portfolio",
+    "vite-portfolio",
+    "projects",
+    "open-source",
+    "git",
+    "react-portfolio",
+    "github-pages",
+    "github-portfolio",
+    "academic-portfolio",
+    "online-resume"
+  ]
+}
